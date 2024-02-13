@@ -24,7 +24,7 @@ class Calculator1{
         return(operand_1 * operand_1 * operand_1);
     }
 
-
+//
     public static void main(String[] args){
         float operand_1 = 10;
         float operand_2 = 5;
